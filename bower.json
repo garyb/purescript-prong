@@ -1,0 +1,24 @@
+{
+  "name": "purescript-prong",
+  "homepage": "https://github.com/garyb/purescript-prong",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garyb/purescript-prong.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^6.0.0",
+    "purescript-maybe": "^6.0.0",
+    "purescript-codec-argonaut": "^10.0.0",
+    "purescript-affjax": "^13.0.0"
+  }
+}
